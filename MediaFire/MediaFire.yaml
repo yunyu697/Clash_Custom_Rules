@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,mediafire.com
+  - DOMAIN,mediafire.com
+  - DOMAIN,app.mediafire.com
+  - IP-CIDR,104.16.0.0/16
+  - IP-CIDR,199.91.0.0/16
+  - IP-CIDR,205.196.0.0/16
+  - IP-CIDR,209.196.0.0/16

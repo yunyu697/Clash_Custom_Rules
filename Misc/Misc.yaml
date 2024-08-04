@@ -12,3 +12,7 @@ payload:
     - DOMAIN-SUFFIX,fastgit.org
     - IP-CIDR,45.32.139.184/32
     - IP-CIDR,104.18.9.0/24
+    - IP-CIDR,104.21.57.0/24
+    - IP-CIDR,172.67.167.0/24
+    - IP-CIDR,188.114.96.0/24
+    - IP-CIDR,188.114.97.0/24

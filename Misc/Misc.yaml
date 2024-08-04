@@ -2,3 +2,13 @@ payload:
     - DOMAIN-SUFFIX,mrcong.com
     - DOMAIN-SUFFIX,misskon.com
     - DOMAIN-SUFFIX,subhd.tv
+    - DOMAIN-SUFFIX,0daydown.com
+    - DOMAIN-SUFFIX,tailscale.net
+    - DOMAIN-SUFFIX,tailscale.io
+    - DOMAIN-SUFFIX,pixeldrain.com
+    - DOMAIN-SUFFIX,vultr.com
+    - DOMAIN-SUFFIX,cloudflarestorage.com
+    - DOMAIN-SUFFIX,jsdelivr.net
+    - DOMAIN-SUFFIX,fastgit.org
+    - IP-CIDR,45.32.139.184/32
+    - IP-CIDR,104.18.9.0/24
